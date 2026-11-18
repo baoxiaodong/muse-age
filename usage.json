@@ -1,10 +1,10 @@
 {
   "plan": "免费版",
-  "weekly_used_percent": 7,
-  "weekly_remaining_percent": 93,
+  "weekly_used_percent": 10,
+  "weekly_remaining_percent": 90,
   "weekly_reset": "2026-11-21T08:44:00+08:00",
   "weekly_reset_text": "11月21日 08:44",
   "extra_tokens_left": "7.9B",
   "extra_used_percent": 0,
-  "updated_at": "2026-11-17T23:37:42+08:00"
+  "updated_at": "2026-11-18T20:28:38+08:00"
 }
